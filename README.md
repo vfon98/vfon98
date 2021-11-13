@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://app.daily.dev/vfon"><img src="https://api.daily.dev/devcards/688d9d37e27546b2aaf2ec7429a8da69.png?r=vbc" width="400" alt="Phong To's Dev Card"/></a>
 
 <!--
